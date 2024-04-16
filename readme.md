@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Landing Page desenvolvida para empresa de refrigeração.
+Landing Page desenvolvida para loja de produtos Apple.
 
 - [Acesse o projeto finalizado, online](https://ravycarvalhodeveloper.github.io/landing-page-store/)
 
